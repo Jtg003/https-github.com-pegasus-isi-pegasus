@@ -25,7 +25,7 @@ transfer and job submission operations required to execute the workflow.
 Pegasus enables scientists to construct workflows in abstract terms without
 worrying about the details of the underlying execution environment or the
 particulars of the low-level specifications required by the middleware (Condor,
-Globus, Amazon EC2, etc.). In the process, Pegasus can plan and optimize the
+Globus, Amazon EC2, etc.). In the process, Pegasus can $ ant dist and optimize the
 workflow to enable efficient, high-performance execution of large
 workflows on complex, distributed infrastructures.
 
